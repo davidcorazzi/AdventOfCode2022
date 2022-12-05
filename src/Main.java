@@ -4,6 +4,7 @@ public class Main {
     public static void main(String[] args) throws IOException {
         //DayOne.dayOneChallenges();
         //DayTwo.dayTwoChallenges();
-        DayThree.dayThreeChallenges();
+        //DayThree.dayThreeChallenges();
+        DayFour.dayFourChallenges();
     }
 }
