@@ -6,6 +6,7 @@ public class Main {
         //DayTwo.dayTwoChallenges();
         //DayThree.dayThreeChallenges();
         //DayFour.dayFourChallenges();
-        DayFive.dayFiveChallenges();
+        //DayFive.dayFiveChallenges();
+        DaySix.daySixChallenges();
     }
 }
